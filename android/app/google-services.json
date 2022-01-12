@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639642923963",
+    "project_id": "star-chat-a2b1f",
+    "storage_bucket": "star-chat-a2b1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639642923963:android:729fdcc4dafa0168728a9e",
+        "android_client_info": {
+          "package_name": "co.altrais.star_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639642923963-7d0ecffj5lvk96j6j3se6ommkia9jeg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsEil9XseQeiwgkK1D04dhvkyxpQ3xWGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639642923963-7d0ecffj5lvk96j6j3se6ommkia9jeg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
